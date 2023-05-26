@@ -1,3 +1,3 @@
 # tou-repo
-hello all,
+hello,
 i hope you have a good day
